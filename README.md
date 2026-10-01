@@ -38,21 +38,7 @@ AlphaTrade bridges the gap by introducing a **Time-Aware Hybrid Architecture**. 
 
 ---
 
-## 📸 Platform Screenshots
 
-> **Note:** Screenshots are located in the `assets/` directory.
-
-| Landing Page | Main Dashboard (Overview) |
-| :---: | :---: |
-| <img src="./assets/landing.png" width="400" /> | <img src="./assets/dashboard.png" width="400" /> |
-| *Cinematic entry point.* | *Live lightweight-charts and KPIs.* |
-
-| Technical Indicators | AI Chat Assistant |
-| :---: | :---: |
-| <img src="./assets/indicators.png" width="400" /> | <img src="./assets/chat.png" width="400" /> |
-| *RSI, MACD, and Bollinger Bands.* | *RAG-powered conversational interface.* |
-
----
 
 ## 🛠️ Technologies Used
 
