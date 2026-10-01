@@ -1,0 +1,8 @@
+Model / Experiment,Category,Accuracy,Precision,Recall,F1-Score,ROC-AUC,MAE,RMSE,Latency (ms)
+Random Forest,Baseline ML,0.8636,0.9583,0.8214,0.8846,0.9096,0.3464,0.3742,3.458
+XGBoost (GBDT),Baseline ML,0.7955,0.9524,0.7143,0.8163,0.8973,0.1936,0.4057,4.937
+LSTM Baseline,Neural Baseline,0.8864,0.9259,0.8929,0.9091,0.8929,0.1316,0.3275,8.76
+GRU Baseline,Neural Baseline,0.9318,0.963,0.9286,0.9455,0.9062,0.0924,0.2722,9.58
+Transformer Baseline,Neural Baseline,0.6818,0.75,0.75,0.75,0.7411,0.374,0.4521,7.07
+Attention-LSTM,Neural Baseline,0.9091,0.9286,0.9286,0.9286,0.9085,0.1438,0.2827,10.309
+Proposed Time-Aware RAG-LSTM,Proposed Method,0.8636,0.9231,0.8571,0.8889,0.8661,0.1546,0.3472,14.431

@@ -1,0 +1,11 @@
+pandas
+numpy
+yfinance
+newsapi-python
+nltk
+tensorflow
+scikit-learn
+fastapi
+uvicorn
+pydantic
+python-dotenv

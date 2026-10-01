@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments & Secrets
+venv/
+env/
+ENV/
+.venv/
+.env
+*.env
+backend/.env
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Logs & temporary files
+*.log
+scratch/
+
+# Node / Next.js
+node_modules/
+frontend/node_modules/
+.next/
+frontend/.next/
+out/
+build/
+
